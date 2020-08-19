@@ -4,7 +4,11 @@ pyeantic Change Log
 
 .. current developments
 
-v0.0.4
+v1.0.1
 ====================
+
+**Fixed:**
+
+* version number in configure.ac
 
 
