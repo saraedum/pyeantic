@@ -4,6 +4,15 @@ pyeantic Change Log
 
 .. current developments
 
+v1.1.0
+====================
+
+**Changed:**
+
+* Printing of RealEmbeddedNumberField to distinguish it from the SageMath NumberField
+
+
+
 v1.0.1
 ====================
 
